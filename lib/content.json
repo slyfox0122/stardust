@@ -1,0 +1,773 @@
+{
+  "translations": {
+    "en": {
+      "nav": [
+        "Films",
+        "Technology",
+        "Our story",
+        "Partners"
+      ],
+      "hero": "A new expression.<br>The same you.",
+      "sub": "Colour, protection and comfort.<br>Discover a different side of your drive.",
+      "explore": "Explore the films",
+      "tag": "THE ART OF AUTOMOTIVE FILM",
+      "range": "One car. Endless possibilities.",
+      "rangeSub": "Choose what matters to your drive.",
+      "names": [
+        "Window tinting film (Tinted)",
+        "Paint protection film (PPF)",
+        "Car wrapping film",
+        "Colour PPF",
+        "Custom print wrap"
+      ],
+      "short": [
+        "Comfort, with a clearer view.",
+        "Protect the paint. Preserve the look.",
+        "A new colour. A different expression.",
+        "Colour and protection, together.",
+        "Your idea. Your one-of-a-kind finish."
+      ],
+      "descs": [
+        "Choose window film around heat management, clarity and your preferred level of privacy. Explore nano-ceramic and magnetron-sputtered options with Stardust.",
+        "Transparent paint protection film adds a protective layer to suitable painted surfaces while keeping the original colour in focus. Ask us about the right series for your vehicle.",
+        "Transform your vehicle with a different colour and finish. Discover the Stardust palette, from crystal and pearlescent looks to metallic, satin and matte expressions.",
+        "Bring a colour change and a protective film into one choice. Explore coloured PPF options and discuss the material, finish and care requirements for your vehicle.",
+        "Turn a personal idea, graphic concept or brand identity into a vehicle wrap. Our custom design approach brings AI-assisted exploration and designer creativity together."
+      ],
+      "learn": "Learn more on WhatsApp",
+      "story": "More than a finish.<br>A feeling.",
+      "storyText": "Behind every individual expression is a wider world of materials, design and manufacturing. Stardust connects that world with drivers and partners in Malaysia and beyond.",
+      "storyLink": "The Stardust perspective",
+      "climate": "Your drive, in the tropics.",
+      "climateSub": "From bright afternoons to sudden downpours, choose film with the whole journey in mind.",
+      "climateTitles": [
+        "Sun & comfort",
+        "Rain & upkeep",
+        "Clarity & confidence"
+      ],
+      "climateText": [
+        "Compare total solar energy rejection, not just a single infrared number.",
+        "Consider surface care, installation quality and the maintenance your finish needs.",
+        "Balance your preferred appearance with visibility and applicable local requirements."
+      ],
+      "tech": "Beauty you can understand.",
+      "techSub": "Know what to ask before choosing a film.",
+      "techLink": "Understand the technology",
+      "partner": "Build your next chapter<br>with Stardust.",
+      "partnerText": "For installers, retailers and distributors in Malaysia and international markets. Explore a partnership around automotive films.",
+      "partnerLink": "Explore a partnership",
+      "footer": "Protect Your Ride. Define Your Style",
+      "home": "Home",
+      "contact": "Enquiries",
+      "products": "The film collection",
+      "productsSub": "Five film categories. One automotive world. Find your starting point, then speak with our team about colours, samples and specifications.",
+      "techTitle": "The details make<br>the difference.",
+      "techDesc": "Understand the measurements, materials and questions behind automotive film.",
+      "storyTitle": "From a film brand<br>to an automotive ecosystem.",
+      "storyDesc": "Stardust Holdings Group connects material research, manufacturing, creative design and distribution — with Malaysia as part of its international journey.",
+      "partnerTitle": "A shared ambition.<br>A stronger presence.",
+      "partnerDesc": "Discover opportunities for installers, retailers and international distributors.",
+      "contactTitle": "Start a conversation.",
+      "contactDesc": "Speak with Stardust in Malaysia about products, colour samples, custom designs or a business partnership.",
+      "label": [
+        "Your name",
+        "Email",
+        "Market / country",
+        "I am interested in",
+        "Message"
+      ],
+      "opts": [
+        "Window tinting film (Tinted)",
+        "Paint protection film (PPF)",
+        "Car wrapping film",
+        "Colour PPF",
+        "Custom print wrap",
+        "Dealer / distributor partnership"
+      ],
+      "send": "Continue to WhatsApp",
+      "notice": "Your enquiry opens in WhatsApp with a prepared message. Review it and press Send there to contact Stardust.",
+      "copy": "Copy enquiry",
+      "download": "Download enquiry",
+      "ready": "Your enquiry is ready. Copy or download it to share with Stardust.",
+      "copied": "Copied to clipboard.",
+      "failed": "Please select and copy the enquiry below.",
+      "techHeads": [
+        "VLT · Visible light transmission",
+        "TSER · Total solar energy rejection",
+        "IRR · Infrared rejection",
+        "UV rejection",
+        "PPF · Material and topcoat",
+        "Wrapping · Colour and finish",
+        "Colour PPF · A different material choice",
+        "Custom print · From artwork to application"
+      ],
+      "techBodies": [
+        "VLT describes the proportion of visible light transmitted through glass and film. Assess the installed glass-and-film combination and visibility, not the film alone.",
+        "TSER measures rejection of total solar energy. It is more useful for an overall heat comparison when products are tested on a comparable basis.",
+        "An IRR result depends on the wavelength range and test method. A high IRR value alone does not describe total solar heat rejection.",
+        "UV rejection describes filtration of ultraviolet radiation. Ask for the test range and report; it does not mean all heat is blocked.",
+        "Ask about substrate, thickness, topcoat, ageing tests and warranty terms. Self-healing, when specified, applies to certain surface marks under stated conditions, not every scratch.",
+        "Compare physical samples in different light. Substrate, finish, installation, maintenance and removal conditions matter alongside the colour.",
+        "Colour PPF combines a coloured appearance with a paint-protection-film format. Do not assume it has the same specification as a vinyl colour wrap; compare the exact material and finish.",
+        "A printed wrap depends on artwork resolution, panel layout, printing, lamination and installation. Review a proof and discuss how the design works across the vehicle’s contours."
+      ],
+      "proof": "Research, production and quality",
+      "proofText": "The group profile describes material development, precision coating, visual inspection and ageing tests. For a specific purchase, ask for the technical data sheet and written warranty for the exact film series.",
+      "faq": "Before you choose",
+      "faqs": [
+        [
+          "Is window film the same as PPF?",
+          "No. Window film is applied to glass; PPF is intended for suitable painted surfaces. They address different needs."
+        ],
+        [
+          "Does a darker tint always reject more heat?",
+          "No. Visible darkness and total solar energy rejection measure different things. Compare the specification and test conditions."
+        ],
+        [
+          "Will a film guarantee a cool parked car?",
+          "No. Cabin temperature also depends on sunlight, time, glass, ventilation and other factors."
+        ],
+        [
+          "Can I order for an international market?",
+          "Prepare a partnership enquiry with your country, product category and intended distribution needs. Availability and commercial terms need confirmation."
+        ]
+      ],
+      "detailTitles": [
+        "Comfort starts with the right film.",
+        "An extra layer for the finish you love.",
+        "A colour that feels like you.",
+        "A new look. A protective purpose.",
+        "From an idea to a vehicle graphic."
+      ],
+      "detailBullets": [
+        [
+          "Ask about nano-ceramic and magnetron-sputtered film options.",
+          "Compare VLT, TSER, UV performance and the exact test method.",
+          "Confirm visibility on your existing glass and local requirements."
+        ],
+        [
+          "Discuss suitable coverage for exposed painted surfaces.",
+          "Compare material, thickness, topcoat and available finishes.",
+          "Check any self-healing conditions, care instructions and written warranty."
+        ],
+        [
+          "Explore crystal, metallic, pearlescent, satin and matte-style finishes.",
+          "Review physical colour samples in daylight.",
+          "Confirm material, availability, care and removal conditions."
+        ],
+        [
+          "Explore colours and finishes available in the PPF range.",
+          "Compare the specification with both clear PPF and colour wrap.",
+          "Confirm surface suitability, installation and written warranty."
+        ],
+        [
+          "Share your vehicle model, reference images and preferred themes.",
+          "Discuss a personal design, commercial livery or collaboration brief.",
+          "Review the artwork, print layout and installation plan before production."
+        ]
+      ],
+      "disclaimer": "Film specifications, colours, availability and warranty depend on the selected series. Confirm the current product documentation before ordering.",
+      "steps": [
+        "Discover",
+        "Compare",
+        "Make it yours"
+      ],
+      "stepsText": [
+        "Start with your vehicle and the result you want.",
+        "Review samples and the exact product documentation.",
+        "Plan installation and care with an appropriate installer."
+      ],
+      "partnerCards": [
+        "Installers & retailers",
+        "International distributors"
+      ],
+      "partnerBodies": [
+        "Tell us about your business, location, installation capability and the film categories you are interested in.",
+        "Share your market, distribution model, product requirements and expected volumes for a commercial discussion."
+      ],
+      "request": "Discuss a partnership",
+      "aboutHead": "A wider vision. A personal drive.",
+      "aboutBody": "Starting in Sichuan, China, Stardust grew from a regional automotive film business into a group bringing together material R&D, precision manufacturing, distribution and digital services. Its portfolio connects window film, paint protection, colour change and custom graphics around the needs of drivers and industry partners.",
+      "privacy": "This website does not save the form. Continuing passes your prepared enquiry to WhatsApp; you choose whether to send it.",
+      "menu": "Menu",
+      "view": "Explore this category",
+      "groupTitle": "The capability behind the finish.",
+      "groupIntro": "The group brings research, production and digital tools into a connected automotive film business.",
+      "capabilityTitles": [
+        "Materials & manufacturing",
+        "Quality through the process",
+        "AI-assisted creativity"
+      ],
+      "capabilityBodies": [
+        "The Guangzhou production base integrates raw material modification, precision coating, curing, slitting and packaging. The group combines in-house production with upstream material partnerships.",
+        "The group profile describes 32 quality-control checkpoints, online visual inspection, simulated ageing tests and retained batch samples — connecting production checks with traceability.",
+        "The group-developed XinXuan platform connects product browsing, AI-assisted colour and graphic design, and digital service tools. It helps bring a driver’s idea closer to a design discussion."
+      ],
+      "stats": [
+        "32 checkpoints",
+        "900+ colours",
+        "China → international"
+      ],
+      "statsLabels": [
+        "Group quality-control framework",
+        "Palette described in the group profile",
+        "Expansion into Southeast Asia and Europe"
+      ],
+      "timelineTitle": "An evolving journey.",
+      "timelineTitles": [
+        "Regional beginnings",
+        "International expansion",
+        "Production & sales integration",
+        "A connected group"
+      ],
+      "timelineBodies": [
+        "The team builds its automotive film brand from Sichuan, using digital content to reach a new generation of drivers.",
+        "The group expands its China network and begins its international strategy, including the Singapore operation.",
+        "Upstream factory integration connects production with the brand and distribution business.",
+        "The group enters a new phase linking Guangzhou manufacturing, digital tools and global channel development."
+      ],
+      "globalTitle": "International ambition.<br>Local conversation.",
+      "globalText": "The group’s international strategy connects Southeast Asia and European markets. For Malaysia, our Puchong contact point gives drivers and trade partners a direct place to discuss products, samples and cooperation.",
+      "factoryAlt": "Production line shown in the Stardust group profile",
+      "imageNote": "Product visuals are from the Stardust group profile. Ask for current Malaysian samples, specifications and availability.",
+      "chat": "Chat on WhatsApp",
+      "formTitle": "Tell us what you have in mind",
+      "addressTitle": "Find us in Puchong",
+      "maps": "Open Google Maps",
+      "socialTitle": "Follow Stardust",
+      "contactHint": "Prefer a quick conversation? Chat directly with our team.",
+      "requestSample": "Ask about samples",
+      "groupNote": "Group capabilities and milestones are drawn from the supplied corporate profile. Product availability and commercial terms in Malaysia are confirmed by the local team.",
+      "techHeadsExtra": [
+        "Colour PPF · A different material choice",
+        "Custom print · From artwork to application"
+      ],
+      "techBodiesExtra": [
+        "Colour PPF combines a coloured appearance with a paint-protection-film format. Do not assume it has the same specification as a vinyl colour wrap; compare the exact material and finish.",
+        "A printed wrap depends on artwork resolution, panel layout, printing, lamination and installation. Review a proof and discuss how the design works across the vehicle’s contours."
+      ],
+      "featuredTitle": "A colour story, made yours.",
+      "featuredBody": "A wrap can change how a car feels before the first drive. Explore colour wrapping, colour PPF and custom graphics with Stardust.",
+      "featuredCta": "Discuss your next look"
+    },
+    "zh": {
+      "nav": [
+        "产品系列",
+        "技术解读",
+        "品牌故事",
+        "合作伙伴"
+      ],
+      "hero": "焕然一面。<br>依然是你。",
+      "sub": "色彩、保护与舒适。<br>发现驾驶生活的另一面。",
+      "explore": "探索产品系列",
+      "tag": "汽车膜的美学",
+      "range": "一辆爱车，无限可能。",
+      "rangeSub": "为你的驾驶生活，选择真正重要的。",
+      "names": [
+        "汽车隔热膜 Tinted",
+        "漆面保护膜 PPF",
+        "车身改色膜",
+        "彩色 PPF",
+        "定制彩绘膜"
+      ],
+      "short": [
+        "舒适，也看得清晰。",
+        "保护漆面，保留原车风格。",
+        "焕一种色彩，换一种表达。",
+        "色彩与保护，一次选择。",
+        "让你的创意，成为专属外观。"
+      ],
+      "descs": [
+        "围绕隔热、清晰视线与隐私需求选择汽车窗膜。与 Stardust 了解纳米陶瓷及磁控溅射等产品选择。",
+        "为适合的车身漆面增加透明保护层，同时保留原车颜色。咨询适合你的车型与使用需求的具体系列。",
+        "通过不同颜色与表面质感，为爱车焕新。从水晶、珠光到金属、缎面与哑光风格，探索 Stardust 的色彩世界。",
+        "将车身色彩变化与保护膜结合。了解彩色 PPF 的颜色、材质、表面质感与养护需求。",
+        "把个人创意、图案概念或品牌形象变成车身彩绘。通过 AI 辅助探索与设计师创意，定制属于你的视觉表达。"
+      ],
+      "learn": "WhatsApp 了解更多",
+      "story": "不止一种外观。<br>更是一种感受。",
+      "storyText": "每一种个性表达背后，都有材料、设计与制造的支持。Stardust 将这个世界，与马来西亚及更多市场的驾驶者和合作伙伴连接起来。",
+      "storyLink": "了解 Stardust 的理念",
+      "climate": "热带日常，从容出发。",
+      "climateSub": "从烈日午后到突如其来的阵雨，选膜时考虑完整的驾驶场景。",
+      "climateTitles": [
+        "阳光与舒适",
+        "雨季与养护",
+        "清晰与安心"
+      ],
+      "climateText": [
+        "比较总太阳能阻隔率，不只看单一红外线数值。",
+        "关注表面养护、施工质量与不同材质的保养需求。",
+        "在外观、驾驶视线与当地适用要求之间做出合适选择。"
+      ],
+      "tech": "好看，也要看得懂。",
+      "techSub": "选膜之前，先了解值得问清楚的技术细节。",
+      "techLink": "探索膜的技术",
+      "partner": "与 Stardust，<br>开启下一段旅程。",
+      "partnerText": "面向马来西亚及国际市场的安装门店、零售商与分销商，一起探索汽车膜合作机会。",
+      "partnerLink": "了解合作机会",
+      "footer": "Protect Your Ride. Define Your Style",
+      "home": "首页",
+      "contact": "咨询",
+      "products": "探索汽车膜系列",
+      "productsSub": "五大汽车膜分类，连接色彩、舒适与保护。找到感兴趣的方向，再向团队咨询色样、规格与供货。",
+      "techTitle": "细节，决定<br>你的选择。",
+      "techDesc": "看懂汽车膜背后的指标、材料与关键问题。",
+      "storyTitle": "从汽车膜品牌，<br>到汽车产业生态。",
+      "storyDesc": "Stardust 独角兽控股集团连接材料研发、制造、创意设计与渠道服务，马来西亚是其国际化旅程的一部分。",
+      "partnerTitle": "共同的愿景。<br>更强的品牌连接。",
+      "partnerDesc": "为安装门店、零售商与国际分销商提供合作咨询入口。",
+      "contactTitle": "从一次交流开始。",
+      "contactDesc": "与 Stardust 马来西亚交流产品选择、色样、定制设计或商业合作。",
+      "label": [
+        "姓名",
+        "电子邮箱",
+        "市场／国家",
+        "感兴趣的产品或合作",
+        "留言"
+      ],
+      "opts": [
+        "汽车隔热膜 Tinted",
+        "漆面保护膜 PPF",
+        "车身改色膜",
+        "彩色 PPF",
+        "定制彩绘膜",
+        "经销／分销合作"
+      ],
+      "send": "前往 WhatsApp",
+      "notice": "点击后将打开 WhatsApp，并带入整理好的咨询内容。你可在那里检查内容，再按发送联系 Stardust。",
+      "copy": "复制咨询内容",
+      "download": "下载咨询内容",
+      "ready": "咨询内容已生成，可复制或下载后分享给 Stardust。",
+      "copied": "已复制到剪贴板。",
+      "failed": "请选取下方内容并复制。",
+      "techHeads": [
+        "VLT · 可见光透过率",
+        "TSER · 总太阳能阻隔率",
+        "IRR · 红外线阻隔率",
+        "紫外线阻隔",
+        "PPF · 基材与表面涂层",
+        "改色膜 · 色彩与质感",
+        "彩色 PPF · 不同的材料选择",
+        "定制彩绘 · 从设计到施工"
+      ],
+      "techBodies": [
+        "VLT 表示穿过玻璃与膜的可见光比例。应评估实际玻璃与膜组合的透光和视线，而不是只看膜本身。",
+        "TSER 衡量对总太阳能的阻隔。比较整体隔热表现时，应使用测试基础一致的数据。",
+        "IRR 数值取决于测试波段和方法。单一的高 IRR 数值不能代表整体太阳热量阻隔。",
+        "紫外线阻隔表示对紫外线辐射的过滤能力。需要确认测试范围与报告，并不代表阻隔所有热量。",
+        "了解基材、厚度、涂层、老化测试与保修条款。如有自修复功能，通常只针对特定条件下的部分表面细痕，并非所有划伤。",
+        "在不同光线下比较实物色样。除了颜色，基材、质感、施工、养护与移除条件也很重要。",
+        "彩色 PPF 以保护膜形式呈现车身色彩。不要默认它与普通改色膜具有相同规格，应比较具体基材、表面涂层与性能。",
+        "彩绘效果取决于设计分辨率、车身分片排版、印刷、覆膜及施工。确认设计稿，并讨论图案在车身曲面上的呈现。"
+      ],
+      "proof": "研发、生产与品质控制",
+      "proofText": "集团资料介绍了材料研发、精密涂布、视觉检测与老化测试。具体选购时，请索取对应产品系列的技术资料与书面保修。",
+      "faq": "选择之前，先问清楚",
+      "faqs": [
+        [
+          "隔热膜与 PPF 是同一种产品吗？",
+          "不是。隔热膜用于玻璃；PPF 用于适合的漆面，两者用途不同。"
+        ],
+        [
+          "颜色越深，隔热就越好吗？",
+          "不一定。可见光深浅与总太阳能阻隔是不同指标，应比较规格与测试条件。"
+        ],
+        [
+          "贴膜能保证停放车辆一直凉爽吗？",
+          "不能。车内温度还受日照、时间、玻璃、通风等因素影响。"
+        ],
+        [
+          "国际市场可以咨询订购吗？",
+          "可在合作咨询中提供国家、产品类别及分销需求。供货和商业条款需另行确认。"
+        ]
+      ],
+      "detailTitles": [
+        "舒适，从选对膜开始。",
+        "为心爱的漆面，多一层保护。",
+        "选择真正属于你的颜色。",
+        "改变外观，也考虑保护。",
+        "从创意，到车身彩绘。"
+      ],
+      "detailBullets": [
+        [
+          "了解纳米陶瓷与磁控溅射等产品选择。",
+          "比较 VLT、TSER、紫外线表现与具体测试方法。",
+          "确认原车玻璃的实际视线与当地适用要求。"
+        ],
+        [
+          "讨论适合保护的漆面与施工覆盖范围。",
+          "比较基材、厚度、涂层与可选质感。",
+          "确认自修复适用条件、养护说明与书面保修。"
+        ],
+        [
+          "探索水晶、金属、珠光、缎面与哑光等风格。",
+          "在自然光下查看实物色样。",
+          "确认基材、供货、养护及移除条件。"
+        ],
+        [
+          "了解 PPF 系列可选的颜色与质感。",
+          "比较它与透明 PPF、普通改色膜的具体规格。",
+          "确认施工表面、安装要求与书面保修。"
+        ],
+        [
+          "提供车型、参考图片与喜欢的主题元素。",
+          "讨论个人设计、商业车身广告或联名创意。",
+          "生产前确认设计稿、印刷排版与施工方案。"
+        ]
+      ],
+      "disclaimer": "产品规格、颜色、供货与保修以所选系列为准，订购前请确认最新产品资料。",
+      "steps": [
+        "发现需求",
+        "比较选择",
+        "呈现个性"
+      ],
+      "stepsText": [
+        "从你的车型和期待效果出发。",
+        "查看实物样品与具体产品资料。",
+        "与合适的施工人员规划安装和养护。"
+      ],
+      "partnerCards": [
+        "安装门店与零售商",
+        "国际分销商"
+      ],
+      "partnerBodies": [
+        "介绍你的业务、地点、施工能力及感兴趣的产品类别。",
+        "提供目标市场、分销模式、产品需求及预期采购量，以开展商业讨论。"
+      ],
+      "request": "咨询合作",
+      "aboutHead": "更广阔的视野，更个性的驾驶生活。",
+      "aboutBody": "Stardust 从中国四川的区域汽车膜业务起步，逐步发展为连接材料研发、精密制造、渠道分销与数字化服务的集团。通过汽车窗膜、漆面保护、车身改色与定制彩绘，服务驾驶者与行业合作伙伴的不同需求。",
+      "privacy": "网站不会保存此表单。继续操作会将咨询内容带入 WhatsApp，由你决定是否发送。",
+      "menu": "菜单",
+      "view": "探索此分类",
+      "groupTitle": "好外观背后，有产业能力。",
+      "groupIntro": "集团将研发、生产与数字化工具融入同一个汽车膜业务体系。",
+      "capabilityTitles": [
+        "材料与制造",
+        "贯穿流程的品控",
+        "AI 辅助创意"
+      ],
+      "capabilityBodies": [
+        "广州生产基地整合原料改性、精密涂布、熟化、分切与包装，并通过自主生产和上游材料合作连接供应链。",
+        "集团介绍列明 32 个关键品控节点、在线视觉检测、模拟老化测试及批次留样，将生产检查与质量追溯连接起来。",
+        "集团自研新选平台连接产品浏览、AI 辅助配色和彩绘设计，以及数字化服务工具，让驾驶者的想法更容易进入设计讨论。"
+      ],
+      "stats": [
+        "32 个品控节点",
+        "900+ 色彩",
+        "从中国走向国际"
+      ],
+      "statsLabels": [
+        "集团品质控制体系",
+        "集团资料介绍的色彩范围",
+        "拓展东南亚与欧洲市场"
+      ],
+      "timelineTitle": "持续进化的旅程。",
+      "timelineTitles": [
+        "区域起步",
+        "国际化启航",
+        "产销一体化",
+        "集团协同发展"
+      ],
+      "timelineBodies": [
+        "团队从四川市场起步，通过数字内容让新一代车主认识汽车膜品牌。",
+        "完善中国市场网络，启动国际化战略，包括新加坡业务布局。",
+        "整合上游工厂，连接产品制造、品牌与渠道业务。",
+        "进入连接广州制造、数字化工具与全球渠道的新阶段。"
+      ],
+      "globalTitle": "国际视野，<br>本地交流。",
+      "globalText": "集团的国际化战略连接东南亚与欧洲市场。在马来西亚，蒲种的联系地址为车主和商业伙伴提供直接沟通产品、样品与合作需求的入口。",
+      "factoryAlt": "Stardust 集团介绍中的生产线",
+      "imageNote": "产品视觉来自 Stardust 集团介绍。马来西亚现有色样、规格与供货请向本地团队确认。",
+      "chat": "WhatsApp 咨询",
+      "formTitle": "告诉我们你的想法",
+      "addressTitle": "在蒲种找到我们",
+      "maps": "打开 Google Maps",
+      "socialTitle": "关注 Stardust",
+      "contactHint": "想直接聊聊？通过 WhatsApp 联系团队。",
+      "requestSample": "咨询产品样品",
+      "groupNote": "集团能力与发展历程依据所提供的公司资料整理。马来西亚产品供货与商业条款由本地团队确认。",
+      "techHeadsExtra": [
+        "彩色 PPF · 不同的材料选择",
+        "定制彩绘 · 从设计到施工"
+      ],
+      "techBodiesExtra": [
+        "彩色 PPF 以保护膜形式呈现车身色彩。不要默认它与普通改色膜具有相同规格，应比较具体基材、表面涂层与性能。",
+        "彩绘效果取决于设计分辨率、车身分片排版、印刷、覆膜及施工。确认设计稿，并讨论图案在车身曲面上的呈现。"
+      ],
+      "featuredTitle": "你的色彩，你的故事。",
+      "featuredBody": "在出发之前，车身外观已能改变对爱车的感受。与 Stardust 探索改色膜、彩色 PPF 与定制彩绘。",
+      "featuredCta": "聊聊你的新外观"
+    },
+    "ms": {
+      "nav": [
+        "Filem",
+        "Teknologi",
+        "Kisah kami",
+        "Rakan niaga"
+      ],
+      "hero": "Ekspresi baharu.<br>Tetap diri anda.",
+      "sub": "Warna, perlindungan dan keselesaan.<br>Terokai sisi baharu pemanduan anda.",
+      "explore": "Terokai filem",
+      "tag": "SENI FILEM AUTOMOTIF",
+      "range": "Satu kereta. Pelbagai kemungkinan.",
+      "rangeSub": "Pilih yang penting untuk perjalanan anda.",
+      "names": [
+        "Filem tint tingkap (Tinted)",
+        "Filem perlindungan cat (PPF)",
+        "Filem balutan kereta",
+        "PPF berwarna",
+        "Balutan cetakan tersuai"
+      ],
+      "short": [
+        "Selesa dengan pandangan jelas.",
+        "Lindungi cat. Kekalkan rupanya.",
+        "Warna baharu. Ekspresi berbeza.",
+        "Warna dan perlindungan bersama.",
+        "Idea anda. Kemasan tersendiri."
+      ],
+      "descs": [
+        "Pilih filem tingkap berdasarkan kawalan haba, kejelasan dan tahap privasi pilihan anda. Terokai pilihan nano-seramik dan magnetron sputtering bersama Stardust.",
+        "Filem perlindungan cat lutsinar menambah lapisan perlindungan pada permukaan bercat yang sesuai sambil mengekalkan warna asal. Tanya tentang siri yang sesuai untuk kenderaan anda.",
+        "Ubah rupa kenderaan dengan warna dan kemasan berbeza. Terokai palet Stardust, daripada kristal dan mutiara hingga metalik, satin dan gaya matte.",
+        "Gabungkan pertukaran warna dengan filem perlindungan cat. Terokai pilihan PPF berwarna serta bincangkan bahan, kemasan dan penjagaannya.",
+        "Terjemahkan idea peribadi, konsep grafik atau identiti jenama kepada balutan kenderaan. Pendekatan kami menggabungkan penerokaan berbantukan AI dengan kreativiti pereka."
+      ],
+      "learn": "Ketahui lanjut di WhatsApp",
+      "story": "Lebih daripada kemasan.<br>Satu perasaan.",
+      "storyText": "Di sebalik setiap ekspresi peribadi terdapat dunia bahan, reka bentuk dan pembuatan. Stardust menghubungkan dunia itu dengan pemandu dan rakan niaga di Malaysia serta pasaran lain.",
+      "storyLink": "Perspektif Stardust",
+      "climate": "Pemanduan anda, di iklim tropika.",
+      "climateSub": "Dari tengah hari yang terik hingga hujan tiba-tiba, pertimbangkan seluruh perjalanan ketika memilih filem.",
+      "climateTitles": [
+        "Matahari & keselesaan",
+        "Hujan & penjagaan",
+        "Kejelasan & keyakinan"
+      ],
+      "climateText": [
+        "Bandingkan penolakan keseluruhan tenaga suria, bukan hanya satu angka inframerah.",
+        "Pertimbangkan penjagaan permukaan, mutu pemasangan dan keperluan kemasan anda.",
+        "Seimbangkan rupa pilihan anda dengan penglihatan dan keperluan tempatan yang berkenaan."
+      ],
+      "tech": "Keindahan yang boleh difahami.",
+      "techSub": "Ketahui soalan penting sebelum memilih filem.",
+      "techLink": "Fahami teknologi",
+      "partner": "Bina langkah seterusnya<br>bersama Stardust.",
+      "partnerText": "Untuk pemasang, peruncit dan pengedar di Malaysia serta pasaran antarabangsa. Terokai kerjasama dalam filem automotif.",
+      "partnerLink": "Terokai kerjasama",
+      "footer": "Protect Your Ride. Define Your Style",
+      "home": "Utama",
+      "contact": "Pertanyaan",
+      "products": "Koleksi filem",
+      "productsSub": "Lima kategori filem. Satu dunia automotif. Pilih minat anda dan bincangkan warna, sampel serta spesifikasi bersama pasukan kami.",
+      "techTitle": "Perincian membawa<br>perbezaan.",
+      "techDesc": "Fahami ukuran, bahan dan soalan di sebalik filem automotif.",
+      "storyTitle": "Daripada jenama filem<br>kepada ekosistem automotif.",
+      "storyDesc": "Stardust Holdings Group menghubungkan penyelidikan bahan, pembuatan, reka bentuk kreatif dan pengedaran — dengan Malaysia sebagai sebahagian perjalanan antarabangsanya.",
+      "partnerTitle": "Cita-cita bersama.<br>Kehadiran lebih kukuh.",
+      "partnerDesc": "Terokai peluang untuk pemasang, peruncit dan pengedar antarabangsa.",
+      "contactTitle": "Mulakan perbualan.",
+      "contactDesc": "Hubungi Stardust di Malaysia tentang produk, sampel warna, reka bentuk tersuai atau kerjasama perniagaan.",
+      "label": [
+        "Nama anda",
+        "E-mel",
+        "Pasaran / negara",
+        "Saya berminat dengan",
+        "Mesej"
+      ],
+      "opts": [
+        "Filem tint tingkap (Tinted)",
+        "Filem perlindungan cat (PPF)",
+        "Filem balutan kereta",
+        "PPF berwarna",
+        "Balutan cetakan tersuai",
+        "Kerjasama pengedar"
+      ],
+      "send": "Teruskan ke WhatsApp",
+      "notice": "Pertanyaan dibuka dalam WhatsApp dengan mesej disediakan. Semak mesej dan tekan Hantar di sana untuk menghubungi Stardust.",
+      "copy": "Salin pertanyaan",
+      "download": "Muat turun pertanyaan",
+      "ready": "Pertanyaan anda sedia untuk disalin atau dimuat turun dan dikongsi dengan Stardust.",
+      "copied": "Disalin ke papan klip.",
+      "failed": "Sila pilih dan salin pertanyaan di bawah.",
+      "techHeads": [
+        "VLT · Transmisi cahaya tampak",
+        "TSER · Penolakan keseluruhan tenaga suria",
+        "IRR · Penolakan inframerah",
+        "Penolakan UV",
+        "PPF · Bahan dan lapisan atas",
+        "Balutan · Warna dan kemasan",
+        "PPF berwarna · Pilihan bahan berbeza",
+        "Cetakan tersuai · Daripada karya ke pemasangan"
+      ],
+      "techBodies": [
+        "VLT menerangkan bahagian cahaya tampak yang melalui kaca dan filem. Nilai gabungan kaca dengan filem serta penglihatan, bukan filem sahaja.",
+        "TSER mengukur penolakan keseluruhan tenaga suria. Ia lebih berguna untuk perbandingan haba apabila asas ujian produk adalah setara.",
+        "Nilai IRR bergantung pada julat panjang gelombang dan kaedah ujian. Angka tinggi sahaja tidak menerangkan penolakan keseluruhan haba suria.",
+        "Penolakan UV menerangkan penapisan sinaran ultraungu. Minta julat ujian dan laporan; ia tidak bermaksud semua haba disekat.",
+        "Tanya tentang substrat, ketebalan, lapisan atas, ujian penuaan dan waranti. Pemulihan sendiri, jika dinyatakan, terpakai pada kesan permukaan tertentu dalam keadaan tertentu, bukan semua calar.",
+        "Bandingkan sampel fizikal dalam pencahayaan berbeza. Substrat, kemasan, pemasangan, penjagaan dan syarat penanggalan juga penting.",
+        "PPF berwarna menggabungkan rupa berwarna dengan format filem perlindungan cat. Jangan anggap spesifikasinya sama dengan balutan warna vinil; bandingkan bahan dan kemasan tepat.",
+        "Balutan bercetak bergantung pada resolusi karya, susun atur panel, cetakan, laminasi dan pemasangan. Semak bukti reka bentuk serta kesesuaiannya dengan kontur kenderaan."
+      ],
+      "proof": "Penyelidikan, pengeluaran dan kualiti",
+      "proofText": "Profil kumpulan menerangkan pembangunan bahan, salutan tepat, pemeriksaan visual dan ujian penuaan. Untuk pembelian tertentu, minta helaian data teknikal dan waranti bertulis bagi siri filem yang tepat.",
+      "faq": "Sebelum anda memilih",
+      "faqs": [
+        [
+          "Adakah filem tingkap sama dengan PPF?",
+          "Tidak. Filem tingkap digunakan pada kaca; PPF untuk permukaan bercat yang sesuai. Kegunaannya berbeza."
+        ],
+        [
+          "Adakah tint lebih gelap sentiasa menolak lebih banyak haba?",
+          "Tidak. Kegelapan dan penolakan keseluruhan tenaga suria ialah ukuran berbeza. Bandingkan spesifikasi dan keadaan ujian."
+        ],
+        [
+          "Adakah filem menjamin kereta yang diparkir kekal sejuk?",
+          "Tidak. Suhu kabin turut dipengaruhi cahaya matahari, masa, kaca, pengudaraan dan faktor lain."
+        ],
+        [
+          "Bolehkah saya memesan untuk pasaran antarabangsa?",
+          "Sediakan pertanyaan kerjasama dengan negara, kategori produk dan keperluan pengedaran anda. Ketersediaan dan terma perlu disahkan."
+        ]
+      ],
+      "detailTitles": [
+        "Keselesaan bermula dengan filem tepat.",
+        "Lapisan tambahan untuk kemasan kesayangan.",
+        "Warna yang mencerminkan diri anda.",
+        "Rupa baharu. Tujuan perlindungan.",
+        "Daripada idea kepada grafik kenderaan."
+      ],
+      "detailBullets": [
+        [
+          "Tanya tentang filem nano-seramik dan magnetron sputtering.",
+          "Bandingkan VLT, TSER, prestasi UV dan kaedah ujian tepat.",
+          "Sahkan penglihatan pada kaca sedia ada dan keperluan tempatan."
+        ],
+        [
+          "Bincangkan liputan sesuai untuk permukaan bercat.",
+          "Bandingkan bahan, ketebalan, lapisan atas dan kemasan.",
+          "Semak syarat pemulihan sendiri, penjagaan dan waranti bertulis."
+        ],
+        [
+          "Terokai gaya kristal, metalik, mutiara, satin dan matte.",
+          "Lihat sampel warna fizikal di bawah cahaya siang.",
+          "Sahkan bahan, ketersediaan, penjagaan dan penanggalan."
+        ],
+        [
+          "Terokai warna dan kemasan dalam rangkaian PPF.",
+          "Bandingkan spesifikasi dengan PPF lutsinar dan balutan warna.",
+          "Sahkan kesesuaian permukaan, pemasangan dan waranti bertulis."
+        ],
+        [
+          "Kongsikan model kenderaan, imej rujukan dan tema pilihan.",
+          "Bincangkan reka bentuk peribadi, grafik komersial atau kolaborasi.",
+          "Semak karya, susun atur cetakan dan pelan pemasangan sebelum pengeluaran."
+        ]
+      ],
+      "disclaimer": "Spesifikasi, warna, ketersediaan dan waranti bergantung pada siri terpilih. Sahkan dokumentasi terkini sebelum membuat pesanan.",
+      "steps": [
+        "Terokai",
+        "Bandingkan",
+        "Jadikan milik anda"
+      ],
+      "stepsText": [
+        "Mulakan dengan kenderaan dan hasil yang anda inginkan.",
+        "Semak sampel serta dokumentasi produk yang tepat.",
+        "Rancang pemasangan dan penjagaan bersama pemasang yang sesuai."
+      ],
+      "partnerCards": [
+        "Pemasang & peruncit",
+        "Pengedar antarabangsa"
+      ],
+      "partnerBodies": [
+        "Kongsikan perniagaan, lokasi, keupayaan pemasangan dan kategori filem yang anda minati.",
+        "Nyatakan pasaran, model pengedaran, keperluan produk dan jumlah dijangka untuk perbincangan komersial."
+      ],
+      "request": "Bincangkan kerjasama",
+      "aboutHead": "Visi lebih luas. Pemanduan lebih peribadi.",
+      "aboutBody": "Bermula di Sichuan, China, Stardust berkembang daripada perniagaan filem automotif serantau kepada kumpulan yang menyatukan R&D bahan, pembuatan tepat, pengedaran dan perkhidmatan digital. Portfolionya menghubungkan filem tingkap, perlindungan cat, pertukaran warna dan grafik tersuai untuk pemandu serta rakan industri.",
+      "privacy": "Laman ini tidak menyimpan borang. Meneruskan akan membawa pertanyaan anda ke WhatsApp; anda memilih sama ada untuk menghantarnya.",
+      "menu": "Menu",
+      "view": "Terokai kategori ini",
+      "groupTitle": "Keupayaan di sebalik kemasan.",
+      "groupIntro": "Kumpulan menyatukan penyelidikan, pengeluaran dan alat digital dalam perniagaan filem automotif.",
+      "capabilityTitles": [
+        "Bahan & pembuatan",
+        "Kualiti sepanjang proses",
+        "Kreativiti berbantukan AI"
+      ],
+      "capabilityBodies": [
+        "Pusat pengeluaran Guangzhou menyatukan pengubahsuaian bahan mentah, salutan tepat, pematangan, pemotongan dan pembungkusan. Pengeluaran sendiri digabungkan dengan kerjasama bahan huluan.",
+        "Profil kumpulan menerangkan 32 titik kawalan kualiti, pemeriksaan visual dalam talian, ujian penuaan simulasi dan sampel kelompok tersimpan untuk kebolehkesanan.",
+        "Platform XinXuan yang dibangunkan kumpulan menghubungkan pelayaran produk, reka bentuk warna dan grafik berbantukan AI, serta alat perkhidmatan digital untuk membantu perbincangan reka bentuk."
+      ],
+      "stats": [
+        "32 titik kawalan",
+        "900+ warna",
+        "China → antarabangsa"
+      ],
+      "statsLabels": [
+        "Rangka kawalan kualiti kumpulan",
+        "Palet yang diterangkan dalam profil kumpulan",
+        "Pengembangan ke Asia Tenggara dan Eropah"
+      ],
+      "timelineTitle": "Perjalanan yang terus berkembang.",
+      "timelineTitles": [
+        "Permulaan serantau",
+        "Pengembangan antarabangsa",
+        "Integrasi pengeluaran & jualan",
+        "Kumpulan berhubung"
+      ],
+      "timelineBodies": [
+        "Pasukan membina jenama filem automotif dari Sichuan melalui kandungan digital untuk generasi pemandu baharu.",
+        "Kumpulan meluaskan rangkaian China dan memulakan strategi antarabangsa termasuk operasi Singapura.",
+        "Integrasi kilang huluan menghubungkan pengeluaran dengan jenama dan pengedaran.",
+        "Fasa baharu menyatukan pembuatan Guangzhou, alat digital dan pembangunan saluran global."
+      ],
+      "globalTitle": "Cita-cita antarabangsa.<br>Perbualan tempatan.",
+      "globalText": "Strategi antarabangsa kumpulan menghubungkan Asia Tenggara dan pasaran Eropah. Di Malaysia, alamat hubungan di Puchong memberi pemandu serta rakan niaga tempat untuk membincangkan produk, sampel dan kerjasama.",
+      "factoryAlt": "Barisan pengeluaran dalam profil kumpulan Stardust",
+      "imageNote": "Visual produk daripada profil kumpulan Stardust. Sahkan sampel, spesifikasi dan ketersediaan semasa di Malaysia bersama pasukan tempatan.",
+      "chat": "Hubungi di WhatsApp",
+      "formTitle": "Kongsikan idea anda",
+      "addressTitle": "Temui kami di Puchong",
+      "maps": "Buka Google Maps",
+      "socialTitle": "Ikuti Stardust",
+      "contactHint": "Mahukan perbualan ringkas? Hubungi terus pasukan kami.",
+      "requestSample": "Tanya tentang sampel",
+      "groupNote": "Keupayaan dan pencapaian kumpulan diringkaskan daripada profil korporat yang diberikan. Ketersediaan produk dan terma komersial Malaysia disahkan oleh pasukan tempatan.",
+      "techHeadsExtra": [
+        "PPF berwarna · Pilihan bahan berbeza",
+        "Cetakan tersuai · Daripada karya ke pemasangan"
+      ],
+      "techBodiesExtra": [
+        "PPF berwarna menggabungkan rupa berwarna dengan format filem perlindungan cat. Jangan anggap spesifikasinya sama dengan balutan warna vinil; bandingkan bahan dan kemasan tepat.",
+        "Balutan bercetak bergantung pada resolusi karya, susun atur panel, cetakan, laminasi dan pemasangan. Semak bukti reka bentuk serta kesesuaiannya dengan kontur kenderaan."
+      ],
+      "featuredTitle": "Kisah warna, milik anda.",
+      "featuredBody": "Balutan boleh mengubah perasaan terhadap kereta sebelum perjalanan bermula. Terokai balutan warna, PPF berwarna dan grafik tersuai bersama Stardust.",
+      "featuredCta": "Bincangkan rupa baharu anda"
+    }
+  },
+  "socials": [
+    [
+      "Facebook",
+      "https://www.facebook.com/stardustcarfilm"
+    ],
+    [
+      "Instagram",
+      "https://www.instagram.com/stardustcarfilm"
+    ],
+    [
+      "TikTok",
+      "https://www.tiktok.com/@stardustcarfilm"
+    ],
+    [
+      "YouTube",
+      "https://www.youtube.com/@StardustCarFilm"
+    ]
+  ],
+  "address": "30, Jalan BP 5/9, Bandar Bukit Puchong, 47120 Puchong, Selangor, Malaysia"
+}

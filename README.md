@@ -30,4 +30,10 @@ Deploy `out/` to static hosting. `.openai/hosting.json` retains the existing Sit
 - `public/sitemap.xml` and `public/robots.txt`: update when adding routes or changing the domain.
 - `scripts/check-export.mjs`: checks all 33 language routes and their generated links, assets, metadata, and forms.
 
-`build_site.py`, `content_updates.py`, and `dist/` are retained legacy references. They are not used by the Next.js build; do not use the Python generator to update the deployed website.
+Legacy Python files, where present in a local workspace, are not used by this Next.js project.
+
+## GPT Taste design
+
+`components/TasteHome.jsx` implements the cinematic homepage, five-product grid, product-selection carousel, GSAP text reveal and pinned manufacturing gallery. `public/assets/taste.css` controls the editorial layouts and responsive styles. Geist is bundled through the `geist` package. Animations respect reduced-motion preferences; moving text has a pause control. Preserve the three languages and verified product copy when iterating.
+
+Review browser layout and interactions locally with `npm run dev` before merging design changes.

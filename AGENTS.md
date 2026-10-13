@@ -12,7 +12,8 @@ This project now uses Next.js with React and the Pages Router, exported to `out/
 - `pages/_document.jsx` sets each exported document's language.
 - `public/assets/` contains the styles, logo and images. Browser interactions are handled by React.
 - `.openai/hosting.json` retains the Sites project and deploys `out/`.
-- The Python generator, `content_updates.py`, and `dist/` are legacy references and are no longer build inputs.
+- Legacy Python files, where present in a local workspace, are not Next.js build inputs.
+- `components/TasteHome.jsx` and `public/assets/taste.css` implement the GPT Taste homepage. Use the installed `.agents/skills/gpt-taste/SKILL.md` when extending this design. Preserve reduced-motion fallbacks, pause controls, and SSR-visible content.
 
 Run from the repository directory:
 
@@ -38,3 +39,13 @@ Use `npm run dev` for development, and deploy the generated `out/` directory. Up
 After meaningful changes, rebuild and verify all affected routes in each language, internal links, asset references, product-specific WhatsApp messages, and the footer. Check canonical URLs, language alternate links, sitemap entries, and structured data when changing routes or metadata. Preview desktop and mobile layouts and test navigation, language selection, and enquiry interactions for UI changes. Report any browser checks that could not be completed; do not claim search rankings or AI recommendations are guaranteed.
 
 Check `git status --short` before and after edits. Avoid altering unrelated user work. Do not deploy merely to validate a build; follow the user's requested scope and the Sites workflow for publication.
+
+<!-- BEGIN:nextjs-agent-rules -->
+
+## This is NOT the Next.js you know
+
+This version has breaking changes — APIs, conventions, and file structure may all differ from your training data. Read the relevant guide in `node_modules/next/dist/docs/` (resolved from this file's directory; in monorepos the `next` package may not be visible from the repo root) before writing any code. Heed deprecation notices.
+
+This block is written and re-added by `next dev` — verify at `node_modules/next/dist/server/lib/generate-agent-files.js`. Removing it from a diff only re-creates the uncommitted change; committing it with your work keeps the tree clean.
+
+<!-- END:nextjs-agent-rules -->
